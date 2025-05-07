@@ -1,0 +1,6 @@
+streamlit==1.29.0
+pandas==2.1.4
+matplotlib==3.8.0
+Pillow==10.1.0
+wordcloud==1.9.3
+--upgrade pip
