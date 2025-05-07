@@ -1,5 +1,6 @@
-streamlit==1.25.0
-pandas==2.0.3
-matplotlib==3.7.2
-wordcloud==1.9.2
-Pillow==10.0.0
+streamlit==1.29.0
+pandas==2.1.4
+matplotlib==3.8.0
+Pillow==10.1.0
+wordcloud==1.9.3
+--upgrade pip
